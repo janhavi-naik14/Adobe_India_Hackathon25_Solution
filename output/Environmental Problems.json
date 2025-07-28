@@ -1,0 +1,1357 @@
+{
+  "title": "Environmental Problems",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Environmental Problems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Preserving the environment is essential for sustaining life on Earth. Over the past few decades,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "rapid industrialization, deforestation, and urban expansion have led to serious ecological",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "consequences.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Causes of Environmental Problems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "One major cause of environmental degradation is pollution. Air, water, and soil pollution are",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "increasing at alarming rates, primarily due to human activities. Factories emit harmful gases into",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the atmosphere, while untreated sewage pollutes water bodies. Excessive use of fertilizers and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pesticides also deteriorates soil quality.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Effects on Ecosystems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The effects of these problems are widespread. Climate change, caused by greenhouse gas",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "emissions, leads to extreme weather conditions. Melting glaciers, rising sea levels, and frequent",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "droughts are just a few symptoms of an ailing planet. Furthermore, biodiversity loss threatens",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the stability of ecosystems, affecting both flora and fauna.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Solutions and Preservation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "To combat these issues, both governments and individuals must take action. Switching to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "renewable energy sources, enforcing stricter pollution control laws, and promoting afforestation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "are crucial steps. Public awareness campaigns and education also play a vital role in encouraging",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "eco-friendly behavior.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Table of satistics",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "C11",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "C22",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "C33",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "C44",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Environment",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Electricity",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PPP",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "YTR",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Table-1",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Conclusion",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Environmental problems are not confined to one country or community \u2014 they are global",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "concerns. If we fail to act now, future generations will inherit a world that is not only less",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "beautiful but also less habitable. It is our responsibility to protect and preserve the planet.",
+      "page": 1
+    }
+  ],
+  "structure": [
+    {
+      "type": "text",
+      "content": "Environmental",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Problems",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Preserving",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "the",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "environment",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "is",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "essential",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "for",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "sustaining",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "life",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "on",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Earth.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Over",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "the",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "past",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "few",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "decades,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "rapid",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "industrialization,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "deforestation,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "urban",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "expansion",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "have",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "led",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "serious",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "ecological",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "consequences.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Causes",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Environmental",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Problems",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "One",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "major",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "cause",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "environmental",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "degradation",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "is",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "pollution.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Air,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "water,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "soil",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "pollution",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "increasing",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "at",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "alarming",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "rates,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "primarily",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "due",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "human",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "activities.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Factories",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "emit",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "harmful",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "gases",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "into",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "the",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "atmosphere,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "while",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "untreated",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "sewage",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "pollutes",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "water",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "bodies.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Excessive",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "use",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "fertilizers",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "pesticides",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "also",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "deteriorates",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "soil",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "quality.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Effects",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "on",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Ecosystems",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "The",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "effects",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "these",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "problems",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "widespread.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Climate",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "change,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "caused",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "by",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "greenhouse",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "gas",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "emissions,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "leads",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "extreme",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "weather",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "conditions.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Melting",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "glaciers,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "rising",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "sea",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "levels,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "frequent",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "droughts",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "just",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "a",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "few",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "symptoms",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "an",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "ailing",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "planet.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Furthermore,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "biodiversity",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "loss",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "threatens",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "the",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "stability",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "ecosystems,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "affecting",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "both",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "flora",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "fauna.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Solutions",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Preservation",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "To",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "combat",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "these",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "issues,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "both",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "governments",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "individuals",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "must",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "take",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "action.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Switching",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "renewable",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "energy",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "sources,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "enforcing",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "stricter",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "pollution",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "control",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "laws,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "promoting",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "afforestation",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "crucial",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "steps.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Public",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "awareness",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "campaigns",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "education",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "also",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "play",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "a",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "vital",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "role",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "in",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "encouraging",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "eco-friendly",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "behavior.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Table",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "of",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "satistics",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "C11",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "C22",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "C33",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "C44",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Environment",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Electricity",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "PPP",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "YTR",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Table-1",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Conclusion",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "Environmental",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "problems",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "not",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "confined",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "one",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "country",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "or",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "community",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "\u2014",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "they",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "are",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "global",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "concerns.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "If",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "we",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "fail",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "act",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "now,",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "future",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "generations",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "will",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "inherit",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "a",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "world",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "that",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "is",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "not",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "only",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "less",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "beautiful",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "but",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "also",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "less",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "habitable.",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "It",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "is",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "our",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "responsibility",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "to",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "protect",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "and",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "preserve",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "the",
+      "page": 1
+    },
+    {
+      "type": "text",
+      "content": "planet.",
+      "page": 1
+    },
+    {
+      "type": "image",
+      "content": {
+        "width": 616,
+        "height": 185,
+        "ext": "jpeg",
+        "colorspace": 3,
+        "xres": 96,
+        "yres": 96,
+        "bpc": 8,
+        "size": 11711,
+        "image": 
